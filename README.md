@@ -1,2 +1,2 @@
-# Coffee_Machine_Kotlin
+# Kotlin syntax pratice
 JetBrains Academy Course in Kotlin
